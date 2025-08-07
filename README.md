@@ -1,3 +1,3 @@
-# OpenShift as a Service Documentation
+# Stakater KubeCare+ Documentation
 
-Docs Home for OpenShift as a Service (OaaS) Offering
+Docs Home for Stakater KubeCare+ Offering
