@@ -1,7 +1,7 @@
-site_name: OpenShift as a Service
+site_name: KubeCare+
 docs_dir: content
-site_url: https://docs.stakater.com/oaas/
-repo_url: https://github.com/stakater/oaas-docs
+site_url: https://docs.stakater.com/kubecareplus/
+repo_url: https://github.com/stakater/kubecareplus-docs
 edit_uri: blob/main/content/
 use_directory_urls: false
 
@@ -13,7 +13,7 @@ theme:
     - content.code.select
 
 nav:
-  - OpenShift as a Service:
+  - KubeCare+:
       - index.md
       - general-provisions.md
       - service-composition.md
