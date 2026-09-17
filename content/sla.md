@@ -128,7 +128,7 @@ If the SLA is violated for multiple availability types for the same cluster simu
 
 The following sections also applies to this SLA:
 
-* [Excused Downtime](https://docs.stakater.com/saap/legal-documents/sla.html#6-excused-downtime)
-* [Monthly Uptime Percentage](https://docs.stakater.com/saap/legal-documents/sla.html#7-monthly-uptime-percentage)
-* [Limitations](https://docs.stakater.com/saap/legal-documents/sla.html#10-limitations)
-* [SLA Exclusions](https://docs.stakater.com/saap/legal-documents/sla.html#13-sla-exclusions)
+* [Excused Downtime](https://docs.stakater.com/kubestackplus/legal-documents/sla.html#6-excused-downtime)
+* [Monthly Uptime Percentage](https://docs.stakater.com/kubestackplus/legal-documents/sla.html#7-monthly-uptime-percentage)
+* [Limitations](https://docs.stakater.com/kubestackplus/legal-documents/sla.html#10-limitations)
+* [SLA Exclusions](https://docs.stakater.com/kubestackplus/legal-documents/sla.html#13-sla-exclusions)
